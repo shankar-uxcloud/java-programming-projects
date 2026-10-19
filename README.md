@@ -1,5 +1,4 @@
 
-# Alfido Tech Internship
 ## Task 1: Java Basics & OOP Fundamentals
 
 **Domain:** Java Developer  
@@ -64,5 +63,4 @@ java StudentDemo
 Learned basic Java programming, arithmetic operations,
 and fundamental OOP concepts.
 
-## Internship
-Alfido Tech — Java Developer Internship
+
